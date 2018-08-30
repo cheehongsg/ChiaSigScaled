@@ -1,5 +1,5 @@
-# ChiaSigScaled-internal
-ChIA-PET Interaction Caller (Internal)
+# ChiaSigScaled
+ChIA-PET Interaction Caller
 
 ## Overview
 Jonas Paulsen published "[A statistical model of ChIA-PET data for accurate detection of chromatin 3D interactions](https://www.ncbi.nlm.nih.gov/pubmed/?term=25114054)" 
